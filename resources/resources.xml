@@ -1,0 +1,89 @@
+<resources>
+    <strings>
+      <string id="AppName">Van Gogh</string>
+    </strings>
+
+    <drawables>
+      <bitmap id="LauncherIcon" filename="bitmaps/launcher_icon.png" />
+    </drawables>
+
+    <fonts>
+    </fonts>
+
+    <bitmaps>
+      <bitmap id="van_01" filename="bitmaps/van-01.png"/>
+      <bitmap id="van_02" filename="bitmaps/van-02.png"/>
+      <bitmap id="van_03" filename="bitmaps/van-03.png"/>
+      <bitmap id="van_04" filename="bitmaps/van-04.png"/>
+
+      <bitmap id="van" filename="bitmaps/van-orig.png">
+        <palette>
+            <color>000000</color>
+            <color>000055</color>
+            <color>0000AA</color>
+            <color>0000FF</color>
+            <color>005500</color>
+            <color>005555</color>
+            <color>0055AA</color>
+            <color>0055FF</color>
+            <color>00AA00</color>
+            <color>00AA55</color>
+            <color>00AAAA</color>
+            <color>00AAFF</color>
+            <color>00FF00</color>
+            <color>00FF55</color>
+            <color>00FFAA</color>
+            <color>00FFFF</color>
+            <color>550000</color>
+            <color>550055</color>
+            <color>5500AA</color>
+            <color>5500FF</color>
+            <color>555500</color>
+            <color>555555</color>
+            <color>5555AA</color>
+            <color>5555FF</color>
+            <color>55AA00</color>
+            <color>55AA55</color>
+            <color>55AAAA</color>
+            <color>55AAFF</color>
+            <color>55FF00</color>
+            <color>55FF55</color>
+            <color>55FFAA</color>
+            <color>55FFFF</color>
+            <color>AA0000</color>
+            <color>AA0055</color>
+            <color>AA00AA</color>
+            <color>AA00FF</color>
+            <color>AA5500</color>
+            <color>AA5555</color>
+            <color>AA55AA</color>
+            <color>AA55FF</color>
+            <color>AAAA00</color>
+            <color>AAAA55</color>
+            <color>AAAAAA</color>
+            <color>AAAAFF</color>
+            <color>AAFF00</color>
+            <color>AAFF55</color>
+            <color>AAFFAA</color>
+            <color>AAFFFF</color>
+            <color>FF0000</color>
+            <color>FF0055</color>
+            <color>FF00AA</color>
+            <color>FF00FF</color>
+            <color>FF5500</color>
+            <color>FF5555</color>
+            <color>FF55AA</color>
+            <color>FF55FF</color>
+            <color>FFAA00</color>
+            <color>FFAA55</color>
+            <color>FFAAAA</color>
+            <color>FFAAFF</color>
+            <color>FFFF00</color>
+            <color>FFFF55</color>
+            <color>FFFFAA</color>
+            <color>FFFFFF</color>
+        </palette>
+      </bitmap>
+    </bitmaps>
+
+</resources>
